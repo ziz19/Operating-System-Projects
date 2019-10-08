@@ -1,0 +1,4 @@
+C:\Users\zhuan\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\173.4674.29\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ComputerScience\CS1550\ziz19-project4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ComputerScience/CS1550/ziz19-project4/cmake-build-debug

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/driver.c
+library.h
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/library.h
+fcntl.h
+-
+stdio.h
+-
+
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/library.c
+stdio.h
+-
+fcntl.h
+-
+linux/fb.h
+-
+sys/mman.h
+-
+sys/ioctl.h
+-
+sys/select.h
+-
+sys/time.h
+-
+sys/types.h
+-
+unistd.h
+-
+time.h
+-
+termios.h
+-
+library.h
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/library.h
+
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/library.h
+

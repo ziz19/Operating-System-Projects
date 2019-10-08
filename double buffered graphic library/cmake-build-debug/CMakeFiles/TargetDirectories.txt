@@ -1,0 +1,3 @@
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/cmake-build-debug/CMakeFiles/ziz19_project1.dir
+D:/Alienware/ComputerScience/CS1550/ziz19-project1/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,56 @@
+========================================
+CS/COE 1550 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Zinan Zhuang	
+
+Lecture section:  MW 3-4:15
+
+Recitation day and time:  Tu 4-4:50
+
+Assignment #:  1
+
+Program due date:   2-4 @ 11:59PM
+
+Handed in date:  1-30				
+
+Source code file name(s):
+
+
+driver.c
+library.c
+libraary.h
+
+
+
+Other file name(s) (if relevant):
+
+
+Makefile
+
+
+
+
+Does your program run without error?: No
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+When entering key, key echo is disabled, so the key won't be shown. 
+
+
+
+
+
